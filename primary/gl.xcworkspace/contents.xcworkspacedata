@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Workspace
+   version = "1.0">
+   <FileRef
+      location = "group:Transformations/Transformations.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "group:Textures/Textures/Textures.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "group:triangle/triangle.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "group:GLSL/GLSL.xcodeproj">
+   </FileRef>
+</Workspace>
