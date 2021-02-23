@@ -2,6 +2,12 @@
 <Workspace
    version = "1.0">
    <FileRef
+      location = "group:colors/colors.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "group:Coordinate/Coordinate.xcodeproj">
+   </FileRef>
+   <FileRef
       location = "group:Transformations/Transformations.xcodeproj">
    </FileRef>
    <FileRef
