@@ -1,16 +1,14 @@
 //
 //  LearnView.h
-//  openGLESLearn
+//  LearnOpenGLES
 //
-//  Created by Fei Yuan on 2021/3/9.
+//  Created by loyinglin on 16/3/11.
+//  Copyright © 2016年 loyinglin. All rights reserved.
 //
 
 #import <UIKit/UIKit.h>
 
-NS_ASSUME_NONNULL_BEGIN
-
 @interface LearnView : UIView
 
-@end
 
-NS_ASSUME_NONNULL_END
+@end
